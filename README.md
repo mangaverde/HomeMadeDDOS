@@ -17,12 +17,12 @@ To execute its kinda simple
 
 -Open the prompt and type this:
 
-`
+```
 cd thediretorythereislocatedtarchive
 
 python HomeMadeDDOSPoliceBrutalityLoL.py
 
-`
+```
 
 and here we go now you need to put the ip and the pord you want attack
 
